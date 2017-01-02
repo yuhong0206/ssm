@@ -9,7 +9,7 @@
     </typeAliases>
 
        <!-- 映射map -->
-       <mappers>
-           <!--<mapper resource="com/springmvc/soft/UserMapper.xml"/>-->
-       </mappers>
+       <!--<mappers>-->
+           <!--&lt;!&ndash;<mapper resource="com/springmvc/soft/UserMapper.xml"/>&ndash;&gt;-->
+       <!--</mappers>-->
 </configuration>
