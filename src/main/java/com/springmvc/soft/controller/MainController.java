@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/")
 public class MainController {
 
+    //初始化访问页面
     @RequestMapping()
     public String initWelcome(){
         return "index";
